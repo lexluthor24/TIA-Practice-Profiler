@@ -1,0 +1,6 @@
+{
+  "name": "TIA Practice Profiler",
+  "description": "An interactive assessment to help architects discover their unique practice archetype and identify pathways for intentional growth, featuring personalized analysis powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
